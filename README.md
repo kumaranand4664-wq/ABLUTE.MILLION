@@ -1,5 +1,4 @@
-# ABLUTE.MILLION
-Premium Online Image &amp; Social Media Tools
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +8,7 @@ Premium Online Image &amp; Social Media Tools
     <meta name="description" content="Free online image tools and social media utilities at ABLUTE_MILLION">
     <meta name="keywords" content="image tools, png converter, jpg converter, image resizer, qr code generator, youtube thumbnail downloader">
     
-    <!-- Google AdSense -->
+    <!-- Google AdSense -->6283374890158723"
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID" crossorigin="anonymous"></script>
     
     <!-- Font Awesome for icons -->
@@ -944,13 +943,13 @@ Premium Online Image &amp; Social Media Tools
     </nav>
     
     <div class="container">
-        <!-- Top Ad Banner -->
+        <!-- Top Ad Banner -->6283374890158723"
         <div class="ad-banner">
-            <!-- Google AdSense Ad Unit -->
+            <!-- Google AdSense Ad Unit -->6283374890158723"
             <ins class="adsbygoogle"
                  style="display:block"
                  data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                 data-ad-slot="YOUR_AD_UNIT_ID_TOP"
+                 data-ad-slot="6283374890158723"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
             <script>
@@ -996,13 +995,13 @@ Premium Online Image &amp; Social Media Tools
                 </div>
             </div>
             
-            <!-- Middle Ad Banner -->
-            <div class="ad-banner">
-                <!-- Google AdSense Ad Unit -->
+            <!-- Middle Ad Banner -->6283374890158723"
+            <div class="ad-banner">6283374890158723"
+                <!-- Google AdSense Ad Unit -->6283374890158723"
                 <ins class="adsbygoogle"
                      style="display:block"
-                     data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                     data-ad-slot="YOUR_AD_UNIT_ID_MIDDLE"
+                     data-ad-client="6283374890158723"
+                     data-ad-slot="YOUR_AD_UNIT_ID_MIDDLE"6283374890158723"
                      data-ad-format="auto"
                      data-full-width-responsive="true"></ins>
                 <script>
@@ -1117,11 +1116,11 @@ Premium Online Image &amp; Social Media Tools
         
         <!-- Bottom Ad Banner -->
         <div class="ad-banner">
-            <!-- Google AdSense Ad Unit -->
+            <!-- Google AdSense Ad Unit -->6283374890158723"
             <ins class="adsbygoogle"
                  style="display:block"
-                 data-ad-client="ca-pub-YOUR_ADSENSE_ID"
-                 data-ad-slot="YOUR_AD_UNIT_ID_BOTTOM"
+                 data-ad-client="6283374890158723"
+                 data-ad-slot="YOUR_AD_UNIT_ID_BOTTOM"6283374890158723"
                  data-ad-format="auto"
                  data-full-width-responsive="true"></ins>
             <script>
@@ -1210,7 +1209,7 @@ Premium Online Image &amp; Social Media Tools
         });
         
         // Initialize AdSense ads
-        (adsbygoogle = window.adsbygoogle || []).push({});
+        (adsbygoogle = window.adsbygoogle || [6283374890158723"]).push({});
         
         // Modal functionality
         const modals = {
