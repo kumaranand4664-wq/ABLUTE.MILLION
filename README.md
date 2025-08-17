@@ -1497,3 +1497,563 @@
     </script>
 </body>
 </html>
+<nav>
+    <ul>
+        <li><a href="#" class="nav-link active" data-page="image-tools">Image Tools</a></li>
+        <li><a href="#" class="nav-link" data-page="social-tools">Social Media Tools</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <!-- Top Ad Banner -->6283374890158723"
+    <div class="ad-banner">
+        <!-- Google AdSense Ad Unit -->6283374890158723"
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-YOUR_ADSENSE_ID"
+             data-ad-slot="6283374890158723"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- Image Tools Page -->
+    <div id="image-tools" class="page-content active">
+        <div class="featured-section">
+            <h2 class="section-title">Image Conversion Tools</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="PNG Converter">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image to PNG Converter</h3>
+                        <p class="card-desc">Convert any image format to PNG while preserving transparency.</p>
+                        <button class="btn try-tool" data-tool="png-converter">Convert Now</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="JPG Converter">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image to JPG Converter</h3>
+                        <p class="card-desc">Convert images to JPG format with adjustable quality settings.</p>
+                        <button class="btn try-tool" data-tool="jpg-converter">Convert Now</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Image Resizer">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image Resizer</h3>
+                        <p class="card-desc">Resize your images to any dimensions while maintaining aspect ratio.</p>
+                        <button class="btn try-tool" data-tool="image-resizer">Resize Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Middle Ad Banner -->6283374890158723"
+        <div class="ad-banner">6283374890158723"
+            <!-- Google AdSense Ad Unit -->6283374890158723"
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="6283374890158723"
+                 data-ad-slot="YOUR_AD_UNIT_ID_MIDDLE"6283374890158723"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+        
+        <div class="featured-section">
+            <h2 class="section-title">Image Optimization Tools</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Image Compressor">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image Compressor</h3>
+                        <p class="card-desc">Reduce image file size without noticeable quality loss.</p>
+                        <button class="btn try-tool" data-tool="image-compressor">Compress Now</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1590845947676-fa2576f401d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Image Cropper">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image Cropper</h3>
+                        <p class="card-desc">Crop images to remove unwanted areas or change aspect ratio.</p>
+                        <button class="btn try-tool" data-tool="image-cropper">Crop Now</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Base64 Converter">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">Image to Base64</h3>
+                        <p class="card-desc">Convert images to Base64 string for web development.</p>
+                        <button class="btn try-tool" data-tool="base64-converter">Convert Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="featured-section">
+            <h2 class="section-title">Specialty Image Tools</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="WebP Converter">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">WebP to PNG</h3>
+                        <p class="card-desc">Convert WebP images to PNG format for wider compatibility.</p>
+                        <button class="btn try-tool" data-tool="webp-converter">Convert Now</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="GIF Maker">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">GIF Maker</h3>
+                        <p class="card-desc">Create animated GIFs from images or videos.</p>
+                        <button class="btn try-tool" data-tool="gif-maker">Create GIF</button>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="QR Code Generator">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">QR Code Generator</h3>
+                        <p class="card-desc">Create custom QR codes for URLs, text, or contact information.</p>
+                        <button class="btn try-tool" data-tool="qr-generator">Generate QR</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Social Media Tools Page -->
+    <div id="social-tools" class="page-content">
+        <div class="featured-section">
+            <h2 class="section-title">YouTube Tools</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-img">
+                        <img src="https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="YouTube Thumbnail Downloader">
+                    </div>
+                    <div class="card-content">
+                        <h3 class="card-title">YouTube Thumbnail Downloader</h3>
+                        <p class="card-desc">Download high-quality thumbnails from any YouTube video.</p>
+                        <button class="btn try-tool" data-tool="yt-thumbnail">Download Now</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- About Section -->
+    <div class="about-section">
+        <h2>About ABLUTE_MILLION</h2>
+        <p>ABLUTE_MILLION provides premium online tools for image conversion, optimization, and social media needs. Our mission is to offer high-quality, easy-to-use tools that help creators and businesses enhance their digital content.</p>
+        <p>Follow us on Instagram for updates and tips:</p>
+        <div class="social-links">
+            <a href="https://instagram.com/official__ankit__0005" class="social-link" target="_blank" title="Follow on Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+        </div>
+        <div class="instagram-handle">@official__ankit__0005</div>
+    </div>
+    
+    <!-- Bottom Ad Banner -->
+    <div class="ad-banner">
+        <!-- Google AdSense Ad Unit -->6283374890158723"
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="6283374890158723"
+             data-ad-slot="YOUR_AD_UNIT_ID_BOTTOM"6283374890158723"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+<!-- Image Tools Modals -->
+<div id="png-converter-modal" class="modal">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <div class="tool-interface">
+            <div class="tool-header">Image to PNG Converter</div>
+            <div class="tool-body">
+                <div class="tool-input">
+                    <div class="file-upload">
+                        <i class="fas fa-file-image"></i>
+                        <p>Drag & drop your image here or click to browse</p>
+                        <input type="file" id="png-file-input" accept="image/*">
+                    </div>
+                    <div class="tool-options">
+                        <label>
+                            <input type="checkbox" id="preserve-transparency" checked>
+                            Preserve Transparency
+                        </label>
+                    </div>
+                </div>
+                <div class="tool-result" id="png-result">
+                    <p>Your converted PNG image will appear here after upload.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Other modals remain the same as previous versions -->
+
+<!-- Chatbot Container -->
+<div id="chatbot-container">
+    <div id="chat-header">
+        <span>Need help? Chat with us!</span>
+        <span id="chat-toggle">+</span>
+    </div>
+    <div id="chat-body">
+        <div id="chat-messages"></div>
+        <div id="chat-input-container">
+            <input type="text" id="user-input" placeholder="Type your message...">
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="footer-links">
+        <a href="#">About Us</a>
+        <a href="#">Contact</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms of Service</a>
+    </div>
+    <div class="copyright">
+        &copy; 2023 ABLUTE_MILLION. All rights reserved.
+    </div>
+</footer>
+
+<script>
+    // Navigation between pages
+    document.querySelectorAll('.nav-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            
+            // Remove active class from all links and pages
+            document.querySelectorAll('.nav-link').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.page-content').forEach(el => el.classList.remove('active'));
+            
+            // Add active class to clicked link
+            this.classList.add('active');
+            
+            // Show corresponding page
+            const pageId = this.getAttribute('data-page');
+            document.getElementById(pageId).classList.add('active');
+            
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    });
+    
+    // Initialize AdSense ads
+    (adsbygoogle = window.adsbygoogle || [6283374890158723"]).push({});
+    
+    // Modal functionality
+    const modals = {
+        // Image Tools
+        'png-converter': document.getElementById('png-converter-modal'),
+        'jpg-converter': document.getElementById('jpg-converter-modal'),
+        'image-resizer': document.getElementById('image-resizer-modal'),
+        'image-compressor': document.getElementById('image-compressor-modal'),
+        'image-cropper': document.getElementById('image-cropper-modal'),
+        'base64-converter': document.getElementById('base64-converter-modal'),
+        'webp-converter': document.getElementById('webp-converter-modal'),
+        'gif-maker': document.getElementById('gif-maker-modal'),
+        'qr-generator': document.getElementById('qr-generator-modal'),
+        
+        // Social Media Tools
+        'yt-thumbnail': document.getElementById('yt-thumbnail-modal')
+    };
+    
+    // Open modals when buttons are clicked
+    document.querySelectorAll('.try-tool').forEach(btn => {
+        btn.addEventListener('click', function() {
+            const tool = this.getAttribute('data-tool');
+            document.body.style.overflow = 'hidden';
+            modals[tool].style.display = 'block';
+        });
+    });
+    
+    // Close modals when X is clicked
+    document.querySelectorAll('.close-modal').forEach(closeBtn => {
+        closeBtn.addEventListener('click', function() {
+            document.body.style.overflow = 'auto';
+            this.closest('.modal').style.display = 'none';
+        });
+    });
+    
+    // Close modals when clicking outside
+    window.addEventListener('click', function(e) {
+        if (e.target.classList.contains('modal')) {
+            document.body.style.overflow = 'auto';
+            e.target.style.display = 'none';
+        }
+    });
+    
+    // Chatbot functionality
+    const chatBody = document.getElementById('chat-body');
+    const chatToggle = document.getElementById('chat-toggle');
+    const chatMessages = document.getElementById('chat-messages');
+    const userInput = document.getElementById('user-input');
+    const sendBtn = document.getElementById('send-btn');
+    
+    let isChatOpen = false;
+    
+    // Toggle chat visibility
+    chatToggle.addEventListener('click', toggleChat);
+    
+    function toggleChat() {
+        isChatOpen = !isChatOpen;
+        if (isChatOpen) {
+            chatBody.classList.add('expanded');
+            chatToggle.textContent = '−';
+            userInput.focus();
+        } else {
+            chatBody.classList.remove('expanded');
+            chatToggle.textContent = '+';
+        }
+    }
+    
+    // Send message
+    sendBtn.addEventListener('click', sendMessage);
+    userInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') sendMessage();
+    });
+    
+    // Initial greeting
+    setTimeout(() => {
+        addBotMessage("Hello! I'm your ABLUTE_MILLION assistant. How can I help you with our image and social media tools today?");
+    }, 1500);
+    
+    // Enhanced responses for image tools website
+    const simpleResponses = {
+        "hello": ["Hello there! How can I assist you with our image tools today?", "Hi! Ready to help with any image conversion or editing needs.", "Greetings! Ask me about our image and social media tools."],
+        "hi": ["Hello there! How can I assist you with our image tools today?", "Hi! Ready to help with any image conversion or editing needs.", "Greetings! Ask me about our image and social media tools."],
+        "help": ["I can help you with all our image tools - converters, resizers, compressors and more!", 
+                "What would you like to know about? We have PNG/JPG converters, image resizers, QR generators and YouTube thumbnail downloaders."],
+        "convert": ["We offer several conversion tools: PNG, JPG, WebP, and Base64 converters. Which one do you need?", 
+                   "For image conversion, we have tools to convert between PNG, JPG, and WebP formats."],
+        "png": ["Our PNG converter preserves transparency and converts any image to PNG format. Click 'Image Tools' in the menu to try it!", 
+               "To convert to PNG, use our Image to PNG converter tool under the Image Tools section."],
+        "jpg": ["Our JPG converter lets you adjust quality settings when converting images. Find it under Image Tools.", 
+               "For JPG conversion with quality control, check out our Image to JPG converter."],
+        "resize": ["Need to resize an image? Our Image Resizer maintains aspect ratio automatically. Try it in the Image Tools section!", 
+                  "The Image Resizer tool lets you specify exact dimensions while keeping your image proportions correct."],
+        "compress": ["Our Image Compressor reduces file size without noticeable quality loss. You can adjust compression level too!", 
+                    "To make your images smaller for web use, try our Image Compressor under Image Tools."],
+        "qr": ["Generate custom QR codes for URLs, text, or contact info with our QR Code Generator tool.", 
+              "Our QR Code Generator lets you customize size and colors. Find it in the Image Tools section."],
+        "youtube": ["We have a YouTube Thumbnail Downloader in our Social Media Tools section. Just paste a YouTube URL!", 
+                   "To download YouTube thumbnails, go to Social Media Tools and enter the video URL."],
+        "tools": ["We offer these image tools: PNG/JPG/WebP converters, Image Resizer, Compressor, Cropper, Base64 converter, GIF Maker, and QR Generator.", 
+                 "Our tools include image format converters, editing tools, and social media utilities like YouTube thumbnail downloader."],
+        "instagram": ["Follow us on Instagram @official__ankit__0005 for updates and tips!", 
+                     "Check out our Instagram @official__ankit__0005 for the latest tool updates and content creation tips."],
+        "bye": ["Goodbye! Come back if you need help with our image tools!", "Thanks for chatting! Happy editing with ABLUTE_MILLION tools!"]
+    };
+    
+    function sendMessage() {
+        const message = userInput.value.trim();
+        
+        if (message) {
+            // Add user message to chat
+            addUserMessage(message);
+            userInput.value = '';
+            
+            // Show typing indicator
+            showTypingIndicator();
+            
+            // Simulate processing delay
+            setTimeout(() => {
+                // Remove typing indicator
+                removeTypingIndicator();
+                
+                // Process message and get response
+                const response = getBotResponse(message);
+                addBotMessage(response);
+            }, 1000 + Math.random() * 2000); // Random delay between 1-3 seconds
+        }
+    }
+    
+    function addUserMessage(message) {
+        const messageDiv = document.createElement('div');
+        messageDiv.className = 'user-message';
+        messageDiv.innerHTML = `
+            <div class="message-bubble">${message}</div>
+        `;
+        chatMessages.appendChild(messageDiv);
+        scrollToBottom();
+    }
+    
+    function addBotMessage(message) {
+        const messageDiv = document.createElement('div');
+        messageDiv.className = 'bot-message';
+        messageDiv.innerHTML = `
+            <div class="message-bubble">${message}</div>
+        `;
+        chatMessages.appendChild(messageDiv);
+        scrollToBottom();
+    }
+    
+    function showTypingIndicator() {
+        const typingDiv = document.createElement('div');
+        typingDiv.className = 'bot-message';
+        typingDiv.id = 'typing-indicator';
+        typingDiv.innerHTML = `
+            <div class="typing-indicator">
+                <div class="typing-dot"></div>
+                <div class="typing-dot"></div>
+                <div class="typing-dot"></div>
+            </div>
+        `;
+        chatMessages.appendChild(typingDiv);
+        scrollToBottom();
+    }
+    
+    function removeTypingIndicator() {
+        const typingIndicator = document.getElementById('typing-indicator');
+        if (typingIndicator) {
+            typingIndicator.remove();
+        }
+    }
+    
+    function scrollToBottom() {
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+    
+    function getBotResponse(userMessage) {
+        const lowerMessage = userMessage.toLowerCase();
+        
+        // Check for simple responses first
+        for (const [keyword, responses] of Object.entries(simpleResponses)) {
+            if (lowerMessage.includes(keyword)) {
+                return responses[Math.floor(Math.random() * responses.length)];
+            }
+        }
+        
+        // Default responses
+        const defaultResponses = [
+            "I'm not sure I understand. Could you rephrase your question about our image tools?",
+            "I can help with questions about our image conversion and editing tools. Could you be more specific?",
+            "I'm still learning about all our tools. Could you ask me about something else?",
+            "I don't have the answer to that right now, but I can help with questions about our PNG/JPG converters, image resizer, or other tools."
+        ];
+        
+        return defaultResponses[Math.floor(Math.random() * defaultResponses.length)];
+    }
+    
+    // File upload handlers for all tools (simulated processing)
+    document.querySelectorAll('.file-upload').forEach(upload => {
+        upload.addEventListener('click', function() {
+            this.querySelector('input[type="file"]').click();
+        });
+    });
+    
+    document.querySelectorAll('input[type="file"]').forEach(input => {
+        input.addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const toolId = this.id.replace('-file-input', '');
+            const resultDiv = document.getElementById(`${toolId}-result`);
+            
+            // Show loading state
+            resultDiv.innerHTML = '<p>Processing file... <span class="spinner"></span></p>';
+            
+            // Simulate processing delay
+            setTimeout(() => {
+                // Create preview for image tools
+                if (toolId !== 'base64') {
+                    const reader = new FileReader();
+                    reader.onload = function(event) {
+                        if (toolId === 'gif') {
+                            // Handle multiple files for GIF maker
+                            const files = e.target.files;
+                            if (files.length < 2) {
+                                resultDiv.innerHTML = '<p>Please select at least 2 images to create a GIF</p>';
+                                return;
+                            }
+                            
+                            let previewHTML = '<p>Selected images for GIF:</p><div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">';
+                            for (let i = 0; i < Math.min(files.length, 5); i++) {
+                                previewHTML += `<img src="${URL.createObjectURL(files[i])}" style="height: 80px; border-radius: 5px;">`;
+                            }
+                            if (files.length > 5) previewHTML += `<p>+ ${files.length - 5} more</p>`;
+                            previewHTML += '</div><button class="btn create-gif">Create GIF</button>';
+                            
+                            resultDiv.innerHTML = previewHTML;
+                            
+                            // Add create GIF button handler
+                            document.querySelector('.create-gif')?.addEventListener('click', function() {
+                                resultDiv.innerHTML = '<p>Creating GIF... <span class="spinner"></span></p>';
+                                
+                                setTimeout(() => {
+                                    // Simulated GIF creation
+                                    resultDiv.innerHTML = `
+                                        <p>Your GIF is ready!</p>
+                                        <img src="https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif" style="max-width: 100%; border-radius: 8px;">
+                                        <button class="btn download-gif">Download GIF</button>
+                                    `;
+                                    
+                                    // Add download handler
+                                    document.querySelector('.download-gif')?.addEventListener('click', function() {
+                                        alert('In a real implementation, this would download the generated GIF');
+                                    });
+                                }, 2000);
+                            });
+                        } else if (toolId === 'crop') {
+                            // Show crop preview
+                            resultDiv.querySelector('p').textContent = 'Drag the selection to choose crop area';
+                            document.getElementById('crop-preview-container').style.display = 'block';
+                            document.getElementById('crop-preview').src = event.target.result;
+                        } else {
+                            // Show processed image
+                            resultDiv.innerHTML = `
+                                <p>Processed image:</p>
+                                <img src="${event.target.result}" style="max-width: 100%; border-radius: 8px;">
+                                <button class="btn download-${toolId}">Download Image</button>
+                            `;
+                            
+                            // Add download handler
+                            document.querySelector(`.download-${toolId}`)?.addEventListener('click', function() {
+                                alert('In a real implementation, this would download the processed image');
+                            });
+                        }
+                    };
+                    
+                    if (toolId === 'gif') {
+                        // For GIF maker, we handle multiple files in the click handler
+                        resultDiv.innerHTML = '<p>Selected ' + e.target.files.length + ' files for GIF creation</p>';
+                    } else {
+                        reader.readAsDataURL(file);
+                    }
+                }
+            }, 1000);
+        });
+    });
+</script>
